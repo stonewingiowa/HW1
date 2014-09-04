@@ -3,5 +3,6 @@
 <body>
 Hello world!
 Yi Shi
+I think this git assignment is interesting. This class is helpful and the professor is nice!
 </body>
 </html>
